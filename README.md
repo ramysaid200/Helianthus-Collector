@@ -12,5 +12,4 @@ This project contains the files, presentations, and Arduino code (`stepper.ino`)
 ## Getting Started
 To view the stepper motor code, navigate to `project data/stepper motor code/stepper.ino` and open it with the Arduino IDE.
 
----
-*Note: A large video demonstration (`Video.mp4`) exists locally but is excluded from this repository due to GitHub's file size limits.*
+
